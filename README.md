@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Artwork-studios
+- 👀 I’m interested in: mobile web and pc development
+- 🌱 I’m currently learning: how to actually code
+- 📫 How to reach me: idk
+- ⚡ Fun fact: i am a bad coder
