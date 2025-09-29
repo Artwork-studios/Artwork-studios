@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/Dh5q0sShxgp13DwrvG.webp"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artwork-studios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="50" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Artwork-studios&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -59,6 +55,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="95" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="95" height="40" alt="itch logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="95" height="40" alt="unsplash logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/Dh5q0sShxgp13DwrvG.webp"  />
 </div>
 
 ###
