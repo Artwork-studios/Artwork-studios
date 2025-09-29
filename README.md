@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="center">I'm avalible on these sites!</h4>
+<h4 align="center">I'm avalible on these sites! tho I wont link all of them</h4>
 
 ###
 
